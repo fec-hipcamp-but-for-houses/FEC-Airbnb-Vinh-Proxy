@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .gridBody {
   display: grid;
   grid-template-columns: 58.3% auto;
